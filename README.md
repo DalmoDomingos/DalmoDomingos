@@ -1,6 +1,21 @@
-
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=EFF713&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=1000&height=100&lines=Hi%2C+i'm+Dalmo.+Welcome+to+my+profile!)](https://git.io/typing-svg)
+##
+
+</div>
+
+<br>
+
+
+<div>
+  
+### My stats
+
+</div>  
+
+<div align="center"> 
+  
   [<img height="150em" src="https://github-readme-stats.vercel.app/api?username=DalmoDomingos&theme=highcontrast&border_radius=4&title_color=36BCF7FF&text_color=f2f53f&show_icons=true&icon_color=36BCF7FF"/>](https://github.com/DalmoDomingos)
   [<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalmoDomingos&theme=highcontrast&title_color=36BCF7FF&text_color=f2f53f&icon_color=36BCF7FF&layout=compact&border_radius=4"/>](https://github.com/DalmoDomingos)
 
@@ -20,15 +35,20 @@
   
 </div>
 
+##
 
-<br><p>🔺 Belo Horizonte, MG - Brazil;</p>
+<div>
+  
+### About me
+
+</div> 
+
+<p>🔺 Belo Horizonte, MG - Brazil;</p>
 <p>📚 Currently, I am studying for my first job in the field of programming;</p>
 <p>🧑🏾‍💻 I enjoy learning new technologies and methods;</p>
 <p>🛩️ Six years in the Brazilian Air Force and counting;</p>
 <p>🤜🏾 Everything that deserves to be done, deserves to be done well.</p>
-
-
-
+<div align="center">
 
 <div align="right">
   
