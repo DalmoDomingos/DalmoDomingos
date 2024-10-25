@@ -32,9 +32,9 @@
 
 <div align="right">
   
-[<img width="120" height="30" align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dalmodomingos/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width="120" height="30" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dalmodomingos/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width="120" height="30" align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/profiles/76561198315048758/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img width="120" height="30" align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dalmodomingos/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img width="120" height="30" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dalmodomingos/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img width="120" height="30" align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/profiles/76561198315048758/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
