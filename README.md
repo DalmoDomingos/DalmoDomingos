@@ -40,7 +40,7 @@
 
 <div align="right">
   
-<br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=1000&width=435&lines=Whatever+happens%2C+happens...+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=1000&width=435&lines=Whatever+happens%2C+happens...+" alt="Typing SVG" /></a>
 
 </div>
 
