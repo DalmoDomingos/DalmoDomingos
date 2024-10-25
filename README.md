@@ -13,7 +13,7 @@
 
 <div align="center">
   
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,7 +21,7 @@
 </div>
 
 
-<p>🔺 Belo Horizonte, MG - Brazil;</p>
+<br><p>🔺 Belo Horizonte, MG - Brazil;</p>
 <p>📚 Currently, I am studying for my first job in the field of programming;</p>
 <p>🧑🏾‍💻 I enjoy learning new technologies and methods;</p>
 <p>🛩️ Six years in the Brazilian Air Force and counting;</p>
